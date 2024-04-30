@@ -1,0 +1,33 @@
+.speed
+{
+    float:left;
+    width:200px;
+    height:200px;
+
+}
+.mainspeed
+{
+    float:left
+}
+.volume
+{
+    float:right;
+    width:200px;
+    height:200px;
+
+}
+.mainvolume
+{
+float:right;
+}
+.play
+{
+    width:20%;
+    border-radius:20px;
+}
+canvas
+{
+    border:5px solid pink;
+
+
+}
